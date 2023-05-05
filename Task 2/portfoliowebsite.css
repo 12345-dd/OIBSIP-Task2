@@ -1,0 +1,136 @@
+.back {
+    background-color: #191a1d;
+    width: 100%;
+    background-size: cover;
+    height: 100vh;
+}
+
+.logo {
+    border-color: #4b6cc1;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "Roboto";
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.image1{
+    height: 350px;
+    width: 320px;
+    padding-top: 20px;
+    border-radius: 8px;
+}
+
+.head {
+    color: #9aa5b1;
+}
+
+.a {
+    color: #4b6cc1;
+}
+
+.para {
+    font-size: 20px;
+    font-family: Roboto;
+
+}
+
+.head1 {
+    font-family: Roboto;
+    color: #cced00;
+    font-weight: bold;
+}
+
+.head3 {
+    font-family: Roboto;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.back {
+    background-color: #1f2933;
+}
+
+.back1 {
+    background-color: #323f4b;
+    width: 100vw;
+}
+
+.image {
+    height: 270px;
+    width: 320px;
+    border-radius: 16px;
+}
+
+.para {
+    font-family: Roboto;
+    color: #9aa5b1;
+    font-weight: normal;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.bg-container {
+    background-color: #323f4b;
+    border-radius: 8px;
+
+    padding: 10px;
+}
+
+.image2 {
+    height: 70px;
+    width: 70px;
+}
+
+.head2 {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.explore-menu-section {
+    background-color: #3e4c59;
+}
+
+.menu-section-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+    background-color: #323f4b;
+}
+
+.head {
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+.para {
+    color: #9aa5b1;
+}
